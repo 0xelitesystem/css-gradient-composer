@@ -1,8 +1,8 @@
-# Gradient Generator
+# CSS Gradient Composer
 
 Build CSS linear, radial, and conic gradients with a live preview and one-click copy.
 
-**Live demo:** https://0xelitesystem.github.io/gradient-generator/
+**Live demo:** https://0xelitesystem.github.io/css-gradient-composer/
 
 ## Use
 
@@ -25,8 +25,8 @@ Everything runs in your browser. Your colors, stops, and generated CSS never lea
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/gradient-generator.git
-cd gradient-generator
+git clone https://github.com/0xelitesystem/css-gradient-composer.git
+cd css-gradient-composer
 ```
 
 Then open `index.html` directly in any browser, or serve it locally:
@@ -52,5 +52,5 @@ MIT. See [LICENSE](LICENSE).
 ## Related
 
 - https://github.com/0xelitesystem/jwt-inspector
-- https://github.com/0xelitesystem/color-contrast-checker
+- https://github.com/0xelitesystem/wcag-contrast-ratio-check
 - https://github.com/0xelitesystem/box-shadow-generator
