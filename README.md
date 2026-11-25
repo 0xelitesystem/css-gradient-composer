@@ -53,4 +53,4 @@ MIT. See [LICENSE](LICENSE).
 
 - https://github.com/0xelitesystem/jwt-inspector
 - https://github.com/0xelitesystem/wcag-contrast-ratio-check
-- https://github.com/0xelitesystem/box-shadow-generator
+- https://github.com/0xelitesystem/layered-box-shadow-builder
